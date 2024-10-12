@@ -60,7 +60,7 @@ if (isIphone()) {
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
-  <title><?= $go; ?>  ทำความเข้าใจและศึกษาเกมสล็อตออนไลน์ Speed Winner</title>
+  <title><?= $go; ?> ทำความเข้าใจและศึกษาเกมสล็อตออนไลน์ Speed Winner</title>
   <meta name="description" content="<?= $go; ?>Speed Winner เป็นเกมสล็อตออนไลน์ที่มอบประสบการณ์การเล่นเกมที่มีพลังและน่าตื่นเต้น ด้วยสัญลักษณ์พิเศษมากมาย คุณจะสามารถเพลิดเพลินกับรอบโบนัสที่ทำกำไรได้ เกมนี้นำเสนอตารางเกมที่มีการจัด" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
@@ -68,7 +68,7 @@ if (isIphone()) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="robots" content="index, follow" />
   <meta name="og:url" content="<?= $link; ?>" />
-  <meta name="og:title" content="<?= $go; ?>ทำความเข้าใจและศึกษาเกมสล็อตออนไลน์ Speed Winner" />
+  <meta name="og:title" content="<?= $go; ?> ทำความเข้าใจและศึกษาเกมสล็อตออนไลน์ Speed Winner" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="<?= $go; ?>Speed Winner เป็นเกมสล็อตออนไลน์ที่มอบประสบการณ์การเล่นเกมที่มีพลังและน่าตื่นเต้น ด้วยสัญลักษณ์พิเศษมากมาย คุณจะสามารถเพลิดเพลินกับรอบโบนัสที่ทำกำไรได้ เกมนี้นำเสนอตารางเกมที่มีการจัด" />
   <meta name="og:image" content="https://i.ibb.co/4Wv4c3L/kha99-2.jpg" />
