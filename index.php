@@ -3,8 +3,8 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-if (isset($_GET['gas']) && !empty($_GET['gas'])) {
-    $go = strtoupper($_GET['gas']);
+if (isset($_GET['go']) && !empty($_GET['go'])) {
+    $go = strtoupper($_GET['go']);
     $link = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 } else {
     
